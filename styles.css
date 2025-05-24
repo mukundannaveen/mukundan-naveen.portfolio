@@ -5,14 +5,33 @@ body{
         font-style: normal;
       
 }
-.banner{
-    background-image: url(/bgport.webp);
-    background-size: cover;
-    padding: 50px;
-}
+
 .pd-4{
     color: purple;
 }
 .pd-3{
     color: bisque;
+}
+.SKILL{
+    background-color: black;
+    color: whitesmoke;
+    box-shadow: 30%;
+}
+.SKILL:hover{
+    color: red;
+}
+.ABOUT{
+    background-image: url(naveen.jpg);
+    height: 100vh;
+    background-size: cover;
+   color: brown;
+    padding: 30PX;
+    
+}
+
+.social media{
+    padding: 50%;
+}
+.certificate{
+    padding-top: 100px;
 }
